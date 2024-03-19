@@ -6,7 +6,7 @@ body {
 }
 
 #myH1 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: Arial, Helvetica, sans-serif;
   color: hsl(0, 0%, 25%);
 }
@@ -22,7 +22,7 @@ body {
 }
 
 #display {
-  font-size: 5rem;
+  font-size: 3rem;
   font-family: monospace;
   font-weight: bold;
   color: hsl(0, 0%, 30%);
@@ -30,7 +30,7 @@ body {
 }
 
 #controls button{
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
   padding: 10px 20px;
   margin: 5px;
